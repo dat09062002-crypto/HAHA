@@ -1,0 +1,36 @@
+{
+  "_ghi_chu": "Điền SỐ LIỆU THẬT từ báo cáo tài chính/thuyết minh của ngân hàng. Để trống nếu chưa có, ứng dụng sẽ hiện 'Chưa có dữ liệu' chứ không tự điền.",
+  "loanTerm": {
+    "asOf": "2025",
+    "data": {
+      "ACB": {
+        "short": null
+      }
+    }
+  },
+  "loanCustomer": {
+    "asOf": "2025",
+    "data": {
+      "ACB": {
+        "retail": null
+      }
+    }
+  },
+  "asset": {
+    "ACB": {
+      "labels": [],
+      "npl35": [],
+      "npl25": [],
+      "provCredit": [],
+      "provSpecific": [],
+      "provGeneral": [],
+      "g2": [],
+      "g3": [],
+      "g4": [],
+      "g5": [],
+      "p25Credit": [],
+      "p25Specific": [],
+      "p25General": []
+    }
+  }
+}
